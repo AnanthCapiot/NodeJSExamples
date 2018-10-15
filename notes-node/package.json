@@ -1,0 +1,17 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "test in Node JS",
+  "main": "app.js",
+  "dependencies": {
+    "latest-version": "^4.0.0",
+    "lodash": "^4.17.11",
+    "yargs": "^4.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ananth Krishnan",
+  "license": "ISC"
+}
